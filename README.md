@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, MS Power BI, Tableau, AWS Sagemaker, Streamlit
 
 ## Education
-- Post Grad, Data Science (Machine Learning and AI) | The University of Texas at Austin and Great Learing  (4.33 GPA) (_April 2024_)								       		
-- M.S., Industrial Engineering (Statistical Data Analysis)	| Texas Tech University  (_December 2022_)	 			        		
-- B.E., Mechanical Engineering | University of Mumbai (_Jan 2019_)
+- Post Grad, Data Science (Machine Learning and AI) | The University of Texas at Austin and Great Learing  | 4.33 GPA |  (_April 2024_)								       		
+- M.S., Industrial Engineering (Statistical Data Analysis)	| Texas Tech University | 4.0 GPA | (_December 2022_)	 			        		
+- B.E., Mechanical Engineering | University of Mumbai | 3.7 GPA | (_Jan 2019_)
 
 ## Work Experience
 **Data Scientist - (Sr.Analyst II) @ Biogen (_December 2022 - Present_)**
