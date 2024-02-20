@@ -1,6 +1,5 @@
 ![Sujit](/asset/headshot_circle.png)
 
-![Sujit Thakur](/assets/headshot_circle.png)
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, MS Power BI, Tableau, AWS Sagemaker, Streamlit
