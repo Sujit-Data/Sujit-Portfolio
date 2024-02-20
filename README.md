@@ -1,6 +1,6 @@
 
 # Sujit Thakur - Data Scientist
-### Download my resume here ![Resume](/asset/SujitTThakur.pdf)
+### Click the link to download my resume:[Download Resume](assets/sujit.pdf)
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, MS Power BI, Tableau, AWS Sagemaker, Streamlit
 
 ## Education
