@@ -1,5 +1,3 @@
-![Sujit](/asset/headshot_circle.png)
-
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, MS Power BI, Tableau, AWS Sagemaker, Streamlit
@@ -35,19 +33,19 @@
 
 ## Achievements 
 
-**Winner of Hackathon - Machine Learning 2024 USA - Organized by UT Austin and great learning
-**Best Data Scientist Award 2023 - Associate Director of Biogen Inc.
-**Best Data Scientist Award 2021 - Manager @ Tech Mahindra ltd
-**Honored by Micorosoft as MS Power BI Super User
+- Winner of Hackathon - Machine Learning 2024 USA - Organized by UT Austin and great learning
+- Best Data Scientist Award 2023 - Associate Director of Biogen Inc.
+- Best Data Scientist Award 2021 - Manager @ Tech Mahindra ltd
+- Honored by Micorosoft as MS Power BI Super User
 
 
 ## Projects
-### Clincal Contract - Machine learning model to predict late or ontime contracts
-### Sentiment Analysis - Natural Language Processing
-### Restaurant Turnover Prediction for Indian restaurants
-### Loan Default Classification for real bank data
-### Machine Learning model for Credit Card data to predict fradulent transactions
-### Ecommerce sales machine learning prediction
+-  Clincal Contract - Machine learning model to predict late or ontime contracts
+-  Sentiment Analysis - Natural Language Processing
+-  Restaurant Turnover Prediction for Indian restaurants
+-  Loan Default Classification for real bank data
+-  Machine Learning model for Credit Card data to predict fradulent transactions
+-  Ecommerce sales machine learning prediction
 
 
 ## Talks & Lectures
