@@ -4,6 +4,5 @@ logo: asset/headshot_circle.png
 description: Data Scientist with 4+ years experience and ML  Hackathon - 2024 Winner
 #show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
