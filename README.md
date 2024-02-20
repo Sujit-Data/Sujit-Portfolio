@@ -1,4 +1,4 @@
-asset/headshot_circle.png
+!(/asset/headshot_circle.png)
 
 ![Sujit Thakur](/assets/headshot_circle.png)
 # Data Scientist
