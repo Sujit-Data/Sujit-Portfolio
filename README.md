@@ -4,13 +4,17 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, MS Power BI, Tableau, AWS Sagemaker, Streamlit
 
 ## Education
-- Post Grad, Data Science (ML and AI) | The University of Texas at Austin and Great Learing  | 4.33 GPA |  (_April 2024_)								       		
-- M.S., Industrial Engineering      	| Texas Tech University                                | 4.0 GPA  | (_December 2022_)	 			        		
-- B.E., Mechanical Engineering        | University of Mumbai                                 | 3.7 GPA  | (_Jan 2019_)
+- Post Grad, Data Science (ML and AI) | The University of Texas at Austin and Great Learing  | 4.33 GPA |							       		
+- M.S., Industrial Engineering      	| Texas Tech University                                | 4.0 GPA  | 	 			        		
+- B.E., Mechanical Engineering        | University of Mumbai                                 | 3.7 GPA  | 
 
 ## Work Experience
-**Data Scientist - (Sr.Analyst II) @ Biogen (_December 2022 - Present_)**
-- Spearheaded international Machine Learning and Data science project for Clinical Contracts and vendor selection, improving accuarcy by 12%
+**Data Scinece and Analytics - (Sr.Principal Data Analyst) @ Eli Lilly  (_Sept 2024 - Present_)**
+- Spearheaded Data Science and Analytics projects for clinical Trials and Clinical ops , solved 1 year long standing problem and received awards for same.
+- Leading team of two analyst for data scince and analytics efforts
+
+**Data Scinece and Analytics - (Sr.Analyst II) @ Biogen (_December 2022 - Present_)**
+- Spearheaded Data Science and Analytics projects 
 - Redeveloped clincal contracting model which resulted in 50% improvement in model performance and saving $10 million dollars which was unaccounted for before this project.
 
 **Jr. Data Scientist - (Engineer U2) @ Tech Mahindra ltd (_February 2020 - July 2021_)**
