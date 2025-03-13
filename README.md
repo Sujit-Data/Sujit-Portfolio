@@ -13,7 +13,7 @@
 - Spearheaded Data Science and Analytics projects for clinical Trials and Clinical ops , solved 1 year long standing problem and received awards for same.
 - Leading team of two analyst for data scince and analytics efforts
 
-**Data Scinece and Analytics - (Sr.Analyst II) @ Biogen (_December 2022 - Present_)**
+**Data Scinece and Analytics - (Sr.Analyst II) @ Biogen (_June 2022 - Sept 2024_)**
 - Spearheaded Data Science and Analytics projects 
 - Redeveloped clincal contracting model which resulted in 50% improvement in model performance and saving $10 million dollars which was unaccounted for before this project.
 
